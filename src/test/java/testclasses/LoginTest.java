@@ -34,7 +34,7 @@ public class LoginTest extends WebTestBase  {
         super();
     }
 
-        //for that create one beforeMethod()-
+    //create one beforeMethod()-
     @BeforeMethod
     public void beforeMethod() throws IOException {
         //call Initialization() method from WebTestBase.java class to open chrome browser
