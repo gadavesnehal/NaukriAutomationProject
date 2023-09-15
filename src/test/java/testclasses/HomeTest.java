@@ -20,6 +20,8 @@ public class HomeTest extends WebTestBase  {
 
     SoftAssert softAssert;
 
+    //define pages-
+
     //define HomePage-
     public HomePage homePage;
     //define LoginPage-
